@@ -4,14 +4,14 @@ Ext.namespace('Ext.ux');
  * @class Ext.ux.Image
  * @extends Ext.BoxComponent
  * @desc
- * Image component for ExtJs
- * 
- * @version 1.0
- * @licence GPLv3
- * @author Charles Opute Odili (chalu) <a href="mailto:chaluwa@gmail.com">chaluwa@gmail.com</a><br><br>
+ * Image component for ExtJs<br><br>
  * 
  * Forum Thread : <a href="http://extjs.com/forum/showthread.php?p=286538">http://extjs.com/forum/showthread.php?p=286538</a><br>
  * Project Home : <a href="http://code.google.com/p/ext-ux-image/">http://code.google.com/p/ext-ux-image/</a>
+ * 
+ * @version 1.0
+ * @licence <a href="http://www.gnu.org/licenses/gpl.html">GPLv3</a>
+ * @author Charles Opute Odili (chalu) <a href="mailto:chaluwa@gmail.com">chaluwa@gmail.com</a>
  * 
  * @constructor
  * @param {Object} config The config object
