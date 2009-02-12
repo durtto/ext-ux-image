@@ -2,15 +2,16 @@ Ext.namespace('Ext.ux');
 
 /**
  * @class Ext.ux.Image
- * @extends Ext.Component
+ * @extends Ext.BoxComponent
  * @desc
  * Image component for ExtJs
  * 
+ * @version 1.0
  * @licence GPLv3
- * @author @author Charles Opute Odili (chalu) <a href="mailto:chaluwa@gmail.com">chaluwa@gmail.com</a>
+ * @author Charles Opute Odili (chalu) <a href="mailto:chaluwa@gmail.com">chaluwa@gmail.com</a><br><br>
  * 
- * <a href="http://extjs.com/forum/showthread.php?p=286538">Forum Thread</a>
- * <a href="http://code.google.com/p/ext-ux-image/">Project Home</a>
+ * Forum Thread : <a href="http://extjs.com/forum/showthread.php?p=286538">http://extjs.com/forum/showthread.php?p=286538</a><br>
+ * Project Home : <a href="http://code.google.com/p/ext-ux-image/">http://code.google.com/p/ext-ux-image/</a>
  * 
  * @constructor
  * @param {Object} config The config object
